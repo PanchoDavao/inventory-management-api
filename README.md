@@ -1,2 +1,31 @@
 # inventory-management-api
-RESTful backend API for managing customers, orders, and inventory using PHP and MySQL with structured endpoints and validation.
+Project Overview
+
+REST API for managing customers, orders, and inventory.
+
+Tech Stack
+
+PHP
+MySQL
+REST API
+JSON
+AI-assisted development using ChatGPT
+
+Features
+
+CRUD operations
+API validation
+Error handling
+Secure database queries
+Structured endpoint routing
+
+Example Endpoints
+
+GET /api/customers
+POST /api/orders
+PUT /api/products/{id}
+DELETE /api/products/{id}
+
+This project was developed using AI-assisted workflows for faster debugging, API design suggestions, and code optimization. All AI-generated code was reviewed, tested, and refined manually.
+
+
