@@ -11,6 +11,11 @@ REST API
 JSON
 AI-assisted development using ChatGPT
 
+Development Tools
+Visual Studio Code
+XAMPP
+Postman for API testing
+
 Features
 
 CRUD operations
